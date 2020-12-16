@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 
 
 def plot_1(x, y, year):
-
     fig = plt.figure()
     fig.subplots_adjust(top=0.8)
     ax1 = fig.add_subplot(111)
